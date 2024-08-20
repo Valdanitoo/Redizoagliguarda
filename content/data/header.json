@@ -55,8 +55,8 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
-            "altText": "Sign up",
+            "label": "Scopa Gianni",
+            "altText": "Scopa Gianni",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -64,7 +64,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Non scopare Gianni",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
